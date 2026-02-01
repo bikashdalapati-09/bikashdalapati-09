@@ -51,5 +51,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashdalapati-09&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdalapati-09&custom_title=Contribution%20Graph&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=c9d1d9&area_color=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
