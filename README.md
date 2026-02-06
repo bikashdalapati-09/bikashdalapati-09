@@ -47,8 +47,19 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikashdalapati-09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashdalapati-09&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9"/>
+<a href="http://www.github.com/bikashdalapati-09">
+  <img src="https://github-readme-stats-lyart-six-14.vercel.app/api?username=bikashdalapati-09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9"/>
+</a>
+
+<a href="http://www.github.com/bikashdalapati-09">
+  <img
+    src="https://github-readme-streak-stats-snowy-nu.vercel.app?user=bikashdalapati-09&theme=dark&background=0D1117&border=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=8b949e&hide_border=true"
+  />
+</a>
+
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikashdalapati-09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashdalapati-09&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9"/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdalapati-09&custom_title=Contribution%20Graph&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=c9d1d9&area_color=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
