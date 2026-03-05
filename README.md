@@ -20,7 +20,8 @@
 <h3 align="left"><span style="color:#ff6b6b;">Coding Profiles :</span></h3>
 <p align="left">
 <a href="https://www.leetcode.com/bikash_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikash_09" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bikash_09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="bikash_09" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bikash_09" target="blank"><img align="center" src="https://img.icons8.com/color/48/codechef.png" alt="bikash_09" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/AT6" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png?f=webp&w=512" alt="bikash_09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><span style="color:#ff6b6b;">Languages :</span></h3>
