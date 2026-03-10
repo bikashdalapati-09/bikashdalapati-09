@@ -1,5 +1,5 @@
 <h1 align="center"><span style="color:#ff6b6b;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">, I'm Bikash Dalapati</span></h1>
-<h3 align="center"><span style="color:#ff6b6b;">A passionate problem solver and web developer from India</span></h3>
+<h3 align="center"><span style="color:#ff6b6b;">A passionate Problem Solver and Full Stack Developer from India</span></h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
 <p align="left"> <span style="color:#ff6b6b;"><img src="https://komarev.com/ghpvc/?username=bikashdalapati-09&label=Profile%20views&color=ff6b6b&style=plastic" alt="bikashdalapati-09" /></span> </p>
@@ -41,7 +41,7 @@
 <p align="left">
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.dev-cpp.com/"> <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/products/tools/compass"> <img src="https://images.icon-icons.com/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" alt="mongoDB compass" width="40" height="40"/> </a>
   <a href="https://www.sublimetext.com/3"> <img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" alt="git" width="40" height="40"/> </a>
   <a href="https://www.postman.com/downloads/"> <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" alt="git" width="40" height="40"/> </a>
 </p>
