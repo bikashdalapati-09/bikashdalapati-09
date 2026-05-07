@@ -1,6 +1,6 @@
 <h1 align="center"><span style="color:#ff6b6b;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">, I'm Bikash Dalapati</span></h1>
 <h3 align="center"><span style="color:#ff6b6b;">A passionate Problem Solver and Full Stack Developer from India</span></h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
+<img align="right" hspace="40" alt="coding" width="350" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
 <p align="left"> <span style="color:#ff6b6b;"><img src="https://komarev.com/ghpvc/?username=bikashdalapati-09&label=Profile%20views&color=ff6b6b&style=plastic" alt="bikashdalapati-09" /></span> </p>
 
@@ -11,60 +11,184 @@
 
 - <span style="color:#ff6b6b;">📫 How to reach me <b>bikashdalapati09@gmail.com</b></span>
 
-<h3 align="left"><span style="color:#ff6b6b;">Connect with me :</span></h3>
-<p align="left">
-<a href="https://linkedin.com/in/bikashdalapati09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikashdalapati09" height="30" width="40" /></a>
-<a href="https://twitter.com/bikashdalapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikashdalapati" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left"><span style="color:#ff6b6b;">Coding Profiles :</span></h3>
-<p align="left">
-<a href="https://www.leetcode.com/bikash_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikash_09" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bikash_09" target="blank"><img align="center" src="https://img.icons8.com/color/48/codechef.png" alt="bikash_09" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/AT6" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png?f=webp&w=512" alt="bikash_09" height="30" width="40" /></a>
-</p>
+## Connect with me
 
-<h3 align="left"><span style="color:#ff6b6b;">Languages :</span></h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="html" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+###
 
-<h3 align="left"><span style="color:#ff6b6b;">Tools :</span></h3>
-<p align="left">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/products/tools/compass"> <img src="https://images.icon-icons.com/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" alt="mongoDB compass" width="40" height="40"/> </a>
-  <a href="https://www.sublimetext.com/3"> <img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/downloads/"> <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" alt="git" width="40" height="40"/> </a>
-</p>
+<div align="left">
+
+  <a href="https://linkedin.com/in/bikashdalapati09" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://twitter.com/bikashdalapati" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" alt="twitter logo" />
+  </a>
+
+</div>
+
+###
+
+<h2 align="left">Coding Profiles</h2>
+
+###
+
+<div align="left">
+
+  <a href="https://www.leetcode.com/bikash_09" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="leetcode logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.codechef.com/users/bikash_09" target="blank">
+    <img src="https://img.icons8.com/color/48/codechef.png" height="40" alt="codechef logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://codeforces.com/profile/AT6" target="blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png?f=webp&w=512" height="40" alt="codeforces logo" />
+  </a>
+
+</div>
+
+###
+
+<h2 align="left">Languages</h2>
+
+###
+
+<div align="left">
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=40670&format=png" height="40" alt="c logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" height="40" alt="html logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" height="40" alt="css logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwind logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" alt="mysql logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  </a>
+
+</div>
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" height="40" alt="vscode logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.mongodb.com/products/tools/compass">
+    <img src="https://images.icon-icons.com/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" height="40" alt="mongodb compass logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.sublimetext.com/3">
+    <img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" height="40" alt="sublime logo" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://www.postman.com/downloads/">
+    <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" height="40" alt="postman logo" />
+  </a>
+
+</div>
+
+###
 
 <div align="center">
 
-<a href="http://www.github.com/bikashdalapati-09">
-  <img height="180em" src="https://github-readme-stats-lyart-six-14.vercel.app/api?username=bikashdalapati-09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9"/>
-</a>
+  <a href="http://www.github.com/bikashdalapati-09">
+    <img height="180em" src="https://github-readme-stats-lyart-six-14.vercel.app/api?username=bikashdalapati-09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9"/>
+  </a>
 
-<!-- <a href="http://www.github.com/bikashdalapati-09">
-  <img height="180em"
-    src="https://github-readme-streak-stats-snowy-nu.vercel.app?user=bikashdalapati-09&theme=dark&background=0D1117&border=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=8b949e&hide_border=true"
-  />
-</a> -->
+  <br><br>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdalapati-09&custom_title=Contribution%20Graph&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=c9d1d9&area_color=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikashdalapati-09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashdalapati-09&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9"/> -->
+  <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdalapati-09&custom_title=Contribution%20Graph&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=c9d1d9&area_color=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div>
