@@ -1,6 +1,6 @@
 <h1 align="center"><span style="color:#ff6b6b;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">, I'm Bikash Dalapati</span></h1>
 <h3 align="center"><span style="color:#ff6b6b;">A passionate Problem Solver and Full Stack Developer from India</span></h3>
-<img align="right" hspace="40" alt="coding" width="350" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
+<img align="right" hspace="0" alt="coding" style="margin-left: 90px" width="290" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
 <p align="left"> <span style="color:#ff6b6b;"><img src="https://komarev.com/ghpvc/?username=bikashdalapati-09&label=Profile%20views&color=ff6b6b&style=plastic" alt="bikashdalapati-09" /></span> </p>
 
