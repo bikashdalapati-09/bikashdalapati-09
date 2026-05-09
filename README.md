@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://twitter.com/bikashdalapati" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" alt="twitter logo" />
@@ -43,13 +43,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="leetcode logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.codechef.com/users/bikash_09" target="blank">
     <img src="https://img.icons8.com/color/48/codechef.png" height="40" alt="codechef logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://codeforces.com/profile/AT6" target="blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png?f=webp&w=512" height="40" alt="codeforces logo" />
@@ -69,70 +69,75 @@
     <img src="https://img.icons8.com/?size=512&id=40670&format=png" height="40" alt="c logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" height="40" alt="html logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://images.icon-icons.com/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" height="40" alt="css logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwind logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" alt="mysql logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  </a>
+  
+  <img width="10" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="40" alt="typescript logo" />
   </a>
 
 </div>
@@ -149,25 +154,31 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
+  
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="git logo" />
+  </a>
+
+  <img width="10" />
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" height="40" alt="vscode logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.mongodb.com/products/tools/compass">
     <img src="https://images.icon-icons.com/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" height="40" alt="mongodb compass logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.sublimetext.com/3">
     <img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" height="40" alt="sublime logo" />
   </a>
 
-  <img width="12" />
+  <img width="10" />
 
   <a href="https://www.postman.com/downloads/">
     <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" height="40" alt="postman logo" />
