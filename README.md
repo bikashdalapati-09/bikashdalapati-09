@@ -77,6 +77,12 @@
 
   <img width="10" />
 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  </a>
+
+  <img width="10" />
+
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" height="40" alt="html logo" />
   </a>
@@ -129,11 +135,6 @@
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" alt="mysql logo" />
   </a>
 
-  <img width="10" />
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
-  </a>
   
   <img width="10" />
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
