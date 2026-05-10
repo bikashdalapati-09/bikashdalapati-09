@@ -139,6 +139,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="40" alt="typescript logo" />
   </a>
+  
+  <img width="10" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="40" alt="nextjs logo" />
+  </a>
 
 </div>
 
