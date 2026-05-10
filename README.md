@@ -183,6 +183,11 @@
   <a href="https://www.postman.com/downloads/">
     <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" height="40" alt="postman logo" />
   </a>
+  <img width="10" />
+
+  <a href="https://chatgpt.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/3840px-ChatGPT_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt="chatgpt logo" />
+  </a>
 
 </div>
 
