@@ -5,7 +5,7 @@
 <p align="left"> <span style="color:#ff6b6b;"><img src="https://komarev.com/ghpvc/?username=bikashdalapati-09&label=Profile%20views&color=ff6b6b&style=plastic" alt="bikashdalapati-09" /></span> </p>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-- <span style="color:#ff6b6b;">🔭 I’m currently working on <b>React</b></span>
+- <span style="color:#ff6b6b;">🔭 I’m currently working on <b>Next js</b></span>
 
 - <span style="color:#ff6b6b;">🌱 I’m currently learning <b>MERN Stack</b></span>
 
