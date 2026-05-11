@@ -122,6 +122,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   </a>
+  
+  <img width="10" />
+
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/redux.png" height="40" alt="redux logo" />
+  </a>
 
   <img width="10" />
 
