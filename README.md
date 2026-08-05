@@ -83,6 +83,12 @@
 
   <img width="10" />
 
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" height="40" alt="python logo" />
+  </a>
+
+  <img width="10" />
+
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" height="40" alt="html logo" />
   </a>
