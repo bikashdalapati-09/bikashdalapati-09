@@ -223,6 +223,8 @@
 
   <br><br>
 
+  <img src="https://count.getloli.com/@bikash?theme=booru-lewd&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto&num=1480&prefix=0" />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
